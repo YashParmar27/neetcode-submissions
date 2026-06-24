@@ -1,5 +1,6 @@
 class Solution {
     public int[] dailyTemperatures(int[] temperatures) {
+        // The first medium I solved fully without help!!
         // Start from the last element, set it to 0
         // have a maxSoFar which keeps track of the max seen so far
         // push temperature in stack, if stack.peek is greater, just set 1
