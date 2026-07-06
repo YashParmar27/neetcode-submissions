@@ -9,6 +9,7 @@
  * }
  */
 
+// The first hard I solved on my own!!
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
         ListNode dummy = new ListNode(0);
